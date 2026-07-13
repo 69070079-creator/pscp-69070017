@@ -15,7 +15,7 @@
 หมายเลข/ชื่อโจทย์ OJ:
 
 ```text
-55555
+2996
 ```
 
 OJ submission ID ถ้ามีการส่งแล้ว:
@@ -27,13 +27,13 @@ OJ submission ID ถ้ามีการส่งแล้ว:
 สถานะ OJ:
 
 ```text
-Pass / Not Pass / Not Submit
+Pass
 ```
 
 เวลาที่ใช้คิดและทำโจทย์ด้วยตนเอง:
 
 ```text
-
+0-15 minutes
 ```
 
 เลือกหนึ่งข้อ:
